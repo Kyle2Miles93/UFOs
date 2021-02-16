@@ -33,11 +33,17 @@ function handleClick() {
   // save the data to the filteredata variable
   if (date) {
     filteredData = filteredData.filter(row => row.datetime === date);
-  };
+  }
 
   // Rebuild the table using the filtered data
   // @NOTE: if no date was found, return just
   // the original data
 
   buildTable(filteredData);
-};
+}
+
+// attach an event to listen for the form button
+d3.selectAll("#filter-btn").on("click", handleClick);
+
+// Build the table when the page loads
+buildTable(tableData);
