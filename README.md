@@ -39,6 +39,7 @@ the date filters our results for UFO sightings on 1/13/2010 from our dataset.
 Some drawbacks in using this webpage:
 * it *only* filters for sightings, but doesn't do much else.
 * there is only one page.
+* there is no filter for **duration** of the sighting 
 
 Considering these limitations, here are some suggestions 
 to improve the website:
