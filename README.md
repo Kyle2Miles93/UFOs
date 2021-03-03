@@ -50,5 +50,5 @@ to improve the website:
 * create some data visualizations
   - charts for sightings in a specific area for each filtered result
   - analytics for how many sightings there are currently
-  - a.k.a an updated webpage that pulls the most current data from a UFO API??? 
+    - a.k.a an updated webpage that pulls the most current data from a UFO API??? 
 
