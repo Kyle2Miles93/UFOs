@@ -45,8 +45,8 @@ Considering these limitations, here are some suggestions
 to improve the website:
 
 * create a dropdown menu for info on the different filter fields.
- - this would inform the public more about what they're searching for
- - it would allow for laypeople to understand the dataset further
+  - this would inform the public more about what they're searching for
+  - it would allow for laypeople to understand the dataset further
 * create some data visualizations
   - charts for sightings in a specific area for each filtered result
   - analytics for how many sightings there are currently
