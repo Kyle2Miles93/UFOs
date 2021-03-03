@@ -28,7 +28,7 @@ As you can see, there are five fields to narrow your search of UFO sightings.
 
 ***Note***: In the dataset, the date range only goes from January 1st, 2010 to January 13th, 2010
 
-The results will be filtered like thus:
+The results will be filtered like this:
 
 ![filtered for date](https://github.com/Kyle2Miles93/UFOs/blob/main/date-filtered-UFOs.png)
 
